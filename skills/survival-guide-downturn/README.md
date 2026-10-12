@@ -99,10 +99,10 @@ survival-guide-downturn/
 
 ### 安装
 
-1. 使用 Git 下载仓库，或在 [仓库页面](https://github.com/jialueqian/survival-guide-downturn) 选择 **Code → Download ZIP**：
+1. 使用 Git 下载仓库，或在 [仓库页面](https://github.com/jialueqian/live-long-and-prosper-skills) 选择 **Code → Download ZIP**：
 
    ```bash
-   git clone https://github.com/jialueqian/survival-guide-downturn.git
+   git clone https://github.com/jialueqian/live-long-and-prosper-skills.git
    ```
 
 2. 从仓库中取出完整的 `skills/survival-guide-downturn/` 文件夹，放入宿主工具支持的技能目录。如果使用单独的技能包，则取出其中的 `survival-guide-downturn/` 文件夹；安装位置及启用方式以宿主说明为准。
@@ -173,7 +173,7 @@ survival-guide-downturn/
 
 ## 参与贡献
 
-欢迎通过 [Issues](https://github.com/jialueqian/survival-guide-downturn/issues) 反馈说明不清、失效链接或遗漏情境，也欢迎提交 [Pull Request](https://github.com/jialueqian/survival-guide-downturn/pulls) 改进文档。
+欢迎通过 [Issues](https://github.com/jialueqian/live-long-and-prosper-skills/issues) 反馈说明不清、失效链接或遗漏情境，也欢迎提交 [Pull Request](https://github.com/jialueqian/live-long-and-prosper-skills/pulls) 改进文档。
 
 新增建议请说明适用条件与局限；新增来源请保留原链接、读取范围和核验日期。修改后检查相对链接、文件结构及相关示例是否与技能指令一致。
 

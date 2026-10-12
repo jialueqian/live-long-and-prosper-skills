@@ -46,7 +46,7 @@
 ## 项目结构
 
 ```text
-survival-guide-downturn/
+live-long-and-prosper-skills/
 ├── README.md
 ├── LICENSE
 └── skills/
@@ -65,10 +65,10 @@ survival-guide-downturn/
 
 ## 快速开始
 
-1. 克隆仓库，或在 [仓库页面](https://github.com/jialueqian/survival-guide-downturn) 选择 **Code → Download ZIP**：
+1. 克隆仓库，或在 [仓库页面](https://github.com/jialueqian/live-long-and-prosper-skills) 选择 **Code → Download ZIP**：
 
    ```bash
-   git clone https://github.com/jialueqian/survival-guide-downturn.git
+   git clone https://github.com/jialueqian/live-long-and-prosper-skills.git
    ```
 
 2. 从 `skills/` 中选择需要的完整技能文件夹，放入宿主 AI 工具支持的技能目录。例如，安装生存指南时复制 `skills/survival-guide-downturn/`。
@@ -113,7 +113,7 @@ survival-guide-downturn/
 
 ## 参与贡献
 
-欢迎通过 [Issues](https://github.com/jialueqian/survival-guide-downturn/issues) 反馈失效链接、说明不清或遗漏情境，也欢迎提交 [Pull Request](https://github.com/jialueqian/survival-guide-downturn/pulls)。
+欢迎通过 [Issues](https://github.com/jialueqian/live-long-and-prosper-skills/issues) 反馈失效链接、说明不清或遗漏情境，也欢迎提交 [Pull Request](https://github.com/jialueqian/live-long-and-prosper-skills/pulls)。
 
 修改时保持技能可独立使用，检查相对链接与目录；新增观点说明适用条件和限制，新增来源保留原链接及读取范围。个人案例先脱敏，不提交未经授权的第三方原著全文。
 
