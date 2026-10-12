@@ -1,0 +1,4 @@
+interface:
+  display_name: "人际社交与亲密关系"
+  short_description: "基于四本材料分析社交、恋爱、择偶、博弈与心理模式，提供判断依据和行动方案"
+  default_prompt: "使用 $interpersonal-strategy 分析我描述的人际或亲密关系，区分行为证据与解释，给出下一步和自然的沟通话术。"
