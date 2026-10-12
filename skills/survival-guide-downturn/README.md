@@ -5,7 +5,7 @@
 <em>稳住基本生活，理清重要取舍，为自己保留有价值的选择。</em>
 
 <p>
-  <img src="https://img.shields.io/badge/version-3.0.0-2563eb?style=flat-square" alt="Version 3.0.0">
+  <img src="https://img.shields.io/badge/version-3.0.1-2563eb?style=flat-square" alt="Version 3.0.1">
   <img src="https://img.shields.io/badge/format-Agent%20Skill-339933?style=flat-square" alt="Agent Skill">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-7c3aed?style=flat-square" alt="MIT License"></a>
 </p>
@@ -147,7 +147,9 @@ survival-guide-downturn/
 
 ## 来源与使用边界
 
-**来源可以追溯，读取范围有记录。** 本版对部分书籍章节进行了定向复核；部分扫描材料复用已有摘要并核对源文件同一性，未重新 OCR 或直接重读对应页面。完整定位与限制见 [来源记录](references/sources-and-evidence.md)，公开经验及访问失败记录见 [field-notes.md](references/field-notes.md)。
+**来源可以追溯，读取范围有记录。** v3.0.1完成33份材料的目录筛选和版本指纹记录，对9本EPUB的指定章节/小节及2份扫描PDF的指定原页作正文归因复核；其余22份逐项记录未采用理由。没有通读33份材料。完整定位、阅读范围、取舍与“当前建议—原文—条件—改写”核对表见 [来源记录](references/sources-and-evidence.md)，公开经验及访问失败记录见 [field-notes.md](references/field-notes.md)。
+
+本补丁修正够用三问与实际时薪的章节归因、Money题图与正文定位，补齐杠铃例子、单身生活建议和宏观框架的条件。现金池、情境表、试验流程与话术明确为技能原创或综合设计；保留技能名、调用方式和9个参考模块，不增加运行依赖。
 
 **经验提供启发，结论需要对应证据。** 技能区分用户事实、官方规则、研究、作者观点、网友经验与综合建议。框架和案例不自动成为普遍有效的定律，同一作者的书与文章也不算独立验证。
 

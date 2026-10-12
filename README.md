@@ -107,6 +107,8 @@ live-long-and-prosper-skills/
 
 技能包含有选择的原创摘要、来源定位和行动设计，不包含电子书、扫描件、整书 OCR 或个人关系档案。具体读取范围和采纳限制见 [生活规划来源](skills/survival-guide-downturn/references/sources-and-evidence.md) 与 [人际策略来源](skills/interpersonal-strategy/references/sources-and-limits.md)。
 
+生存指南当前版本为v3.0.1，本次来源核对的改动与验证范围见 [版本记录](CHANGELOG.md)。
+
 作者观点和公开经验用于启发，不自动成为科学结论或人格诊断。动态政策、医疗、法律与金融信息需要结合实际问题查证；缺少工具或证据时，保留未知并提供核实路径。
 
 生成方案或消息草稿不等于获准替用户购买、签约、提交申请或联系他人。具体操作依用户授权与工具权限执行。
