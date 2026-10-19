@@ -34,8 +34,8 @@
 
 | 技能 | 适合的问题 | 入口与说明 |
 | --- | --- | --- |
-| **survival-guide-downturn** · 低增长时代个人生存策略 | 现金流压力、失业与辞职、居住与照护、健康与支持、生活目标及权益事务 | [技能入口](skills/survival-guide-downturn/SKILL.md) · [详细说明](skills/survival-guide-downturn/README.md) |
-| **interpersonal-strategy** · 人际社交与亲密关系分析 | 关系困惑、聊天复盘、恋爱与择偶、边界与施压识别、利益谈判、逐轮对话演练 | [技能入口](skills/interpersonal-strategy/SKILL.md) · [示例与演练](skills/interpersonal-strategy/references/examples.md) |
+| **survival-guide-downturn** · 低增长时代个人生存策略 | 现金流压力、工作与学习、居住与照护、健康与支持、复盘收尾、生活目标及权益事务 | [技能入口](skills/survival-guide-downturn/SKILL.md) · [详细说明](skills/survival-guide-downturn/README.md) |
+| **interpersonal-strategy** · 人际社交与亲密关系分析 | 关系困惑、聊天复盘与反复自责、恋爱与择偶、边界与施压识别、利益谈判、逐轮对话演练 | [技能入口](skills/interpersonal-strategy/SKILL.md) · [示例与演练](skills/interpersonal-strategy/references/examples.md) |
 
 共同的工作方式：
 
@@ -107,7 +107,7 @@ live-long-and-prosper-skills/
 
 技能包含有选择的原创摘要、来源定位和行动设计，不包含电子书、扫描件、整书 OCR 或个人关系档案。具体读取范围和采纳限制见 [生活规划来源](skills/survival-guide-downturn/references/sources-and-evidence.md) 与 [人际策略来源](skills/interpersonal-strategy/references/sources-and-limits.md)。
 
-生存指南当前版本为v3.0.1，本次来源核对的改动与验证范围见 [版本记录](CHANGELOG.md)。
+生存指南当前版本为v3.1.0，人际技能于2026-10-19增补复盘收尾与话术事实约束。改动、定向读取范围与验证限制见 [版本记录](CHANGELOG.md)。
 
 作者观点和公开经验用于启发，不自动成为科学结论或人格诊断。动态政策、医疗、法律与金融信息需要结合实际问题查证；缺少工具或证据时，保留未知并提供核实路径。
 

@@ -3,7 +3,7 @@ name: survival-guide-downturn
 description: 在经济下行、收入不稳或人生转折中，帮助用户梳理现金流、工作、居住、照护、健康与关系的取舍，形成符合个人目标、可执行且可复盘的生活方案。适用于失业应对、是否辞职或迁居、家庭负担、降低生活脆弱性及全面生活盘点；单纯解释宏观术语、查询金融产品或做临床诊断时不自动启动人生评估。
 license: MIT
 metadata:
-  version: "3.0.1"
+  version: "3.1.0"
 ---
 
 # 低增长时代个人生存策略
@@ -27,7 +27,7 @@ metadata:
 | 现金流、债务、住房、储备、投资边界、保障 | [finance-and-insurance.md](references/finance-and-insurance.md) |
 | 失业、辞职、副业、技能、迁居、跨境选择 | [work-and-options.md](references/work-and-options.md) |
 | 关系支持、边界、共同责任、沟通、识别施压 | [relationships-and-support.md](references/relationships-and-support.md) |
-| 精力、注意力、休息、持续困扰与专业求助 | [health-and-attention.md](references/health-and-attention.md) |
+| 精力、注意力、休息、反复自责、持续困扰与专业求助 | [health-and-attention.md](references/health-and-attention.md) |
 | 宏观变化确实与本次生活决定有关 | [macro-context.md](references/macro-context.md) |
 | 欠薪、救济、诈骗应对、照护及身后办事准备 | [rights-and-affairs.md](references/rights-and-affairs.md) |
 | 需要查来源、评估证据或引入公开经验 | [sources-and-evidence.md](references/sources-and-evidence.md)、[field-notes.md](references/field-notes.md) |
